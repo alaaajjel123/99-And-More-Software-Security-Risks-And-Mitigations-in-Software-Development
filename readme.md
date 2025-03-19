@@ -1,5 +1,5 @@
 
-##👋 👋  Hello Team!
+# 👋 👋  Hello Team!
 
 I'm glad to see you here. In this repo, I have attached over 99 security considerations in software development I've discovered and learned about during my time as a software engineer. These considerations are organized by different tech stacks: Next.js, SpringBoot, Angular, Flutter basically. Each of these security stories has been crafted to highlight real-world vulnerabilities, the strange behaviors that can occur in the development process, and how hackers exploit these issues.
 
