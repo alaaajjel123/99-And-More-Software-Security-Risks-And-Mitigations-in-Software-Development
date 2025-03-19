@@ -10,7 +10,7 @@ But then...
 
 ---
 
-## The Trauma: Stale Product Data and User Complaints
+## Stale Product Data and User Complaints
 
 ### Stage 1: Outdated Product Information
 Users start reporting strange behavior:

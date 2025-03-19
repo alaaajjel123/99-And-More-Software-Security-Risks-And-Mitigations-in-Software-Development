@@ -1,4 +1,4 @@
-# Buy_From_Me - CSRF Security Incident
+# Buy_From_Me 
 
 ## Welcome to Buy_From_Me
 
@@ -8,7 +8,7 @@ Everything seemed perfect. The system was secure, the APIs were performing well,
 
 ---
 
-## 🚨 The Trauma: Unauthorized Actions and User Complaints
+## 🚨 Unauthorized Actions and User Complaints
 
 ### Stage 1: Strange Account Behavior
 Users started reporting strange behavior:

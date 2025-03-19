@@ -1,7 +1,7 @@
 ## Scenario: The "Buy_From_Me" E-Commerce App
 Welcome to **Buy_From_Me**, an e-commerce platform where users can browse products, add items to their cart, and make purchases seamlessly. The frontend is built with Angular, while the backend leverages the power of Spring Boot. 
 
-Our app uses **JSON Web Tokens (JWT)** for user authentication:
+THe app uses **JSON Web Tokens (JWT)** for user authentication:
 1. When a user registers, their account is stored in the database with a hashed password.
 2. Upon login with valid credentials, the backend generates a JWT and sends it back to the frontend.
 3. This JWT is used for future authenticated requests, sent in the header to authorize user actions.
@@ -12,7 +12,7 @@ But then...
 
 ---
 
-## The Trauma: Strange Feedback and a Growing Nightmare
+## Strange Feedback and a Growing Nightmare
 ### Stage 1: Odd Shopping Cart Behavior
 Users start reporting strange behavior:
 - Items mysteriously appear in their shopping carts that they didn’t add.

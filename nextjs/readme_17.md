@@ -6,7 +6,7 @@ Everything seems perfect. The system is secure, the APIs are performing well, an
 
 ## But then...
 
-### The Trauma: Strange Behavior and User Complaints
+### Strange Behavior and User Complaints
 
 #### Stage 1: Odd Product Descriptions
 Users start reporting strange behavior:

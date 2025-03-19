@@ -6,7 +6,7 @@ To enhance user engagement, the team introduced a feature allowing users to uplo
 
 ---
 
-## The Trauma: Strange Feedback and a Growing Nightmare
+## Strange Feedback and a Growing Nightmare
 
 ### Stage 1: Unexpected AWS Charges
 The team starts receiving notifications from AWS about unexpected charges:

@@ -1,4 +1,4 @@
-# Buy_From_Me: Security Incident and Lessons Learned
+# Buy_From_Me
 
 ## Introduction
 Welcome to **Buy_From_Me**, an e-commerce platform where users can browse products, add items to their cart, and make purchases seamlessly. The frontend is built with **Angular**, while the backend leverages the power of **Spring Boot**. One of the app’s standout features is its dynamic **product recommendation system**, which uses machine learning algorithms to suggest products based on user behavior. This feature was designed to provide a personalized shopping experience and increase user engagement.
@@ -7,7 +7,7 @@ Everything seemed perfect. The system was secure, the APIs were performing well,
 
 ---
 
-## The Trauma: Unexpected Ads and Browser Crashes
+## Unexpected Ads and Browser Crashes
 ### Stage 1: Strange Browser Behavior
 Users started reporting strange behavior:
 - Some users claimed they were redirected to suspicious websites while browsing the app.

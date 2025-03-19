@@ -8,7 +8,7 @@ But then…
 
 ---
 
-## The Trauma: Alarming Complaints Start Pouring In
+## Alarming Complaints Start Pouring In
 
 ### Stage 1: "Why Are My Sales Dropping?"
 The first complaints came in subtly. A seller, John, noticed that his sales numbers were unexpectedly low. At first, he assumed it was a slow day. But then, he saw something bizarre—several of his best-selling products were marked **out of stock**, even though he had plenty in inventory.

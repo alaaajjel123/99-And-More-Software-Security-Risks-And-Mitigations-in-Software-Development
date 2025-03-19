@@ -1,4 +1,4 @@
-# Welcome to Buy_From_Me
+# Buy_From_Me
 
 Welcome to **Buy_From_Me**, an e-commerce platform where users can browse products, add items to their cart, and make purchases seamlessly. The frontend is built with **Angular**, while the backend leverages the power of **Spring Boot**. Additionally, the app has a mobile version developed using **Flutter**, ensuring a smooth experience across devices.
 
@@ -10,7 +10,7 @@ But then...
 
 ---
 
-## 🚨 The Trauma: Strange Feedback and a Growing Nightmare
+## 🚨 Strange Feedback and a Growing Nightmare
 
 ### Stage 1: Unauthorized Account Access
 Users start reporting strange behavior:

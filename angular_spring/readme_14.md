@@ -14,7 +14,7 @@ The development team celebrated their success as the user base grew rapidly.
 
 ---
 
-## The Trauma: Strange Feedback and a Growing Nightmare
+## Strange Feedback and a Growing Nightmare
 
 ### Stage 1: Unauthorized Transactions
 Users started reporting strange behavior:

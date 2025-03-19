@@ -11,7 +11,7 @@ But then...
 
 ---
 
-## The Trauma: Strange Feedback and a Growing Nightmare
+## Strange Feedback and a Growing Nightmare
 
 ### Stage 1: Unauthorized Account Access
 Users started reporting strange issues:

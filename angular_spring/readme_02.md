@@ -1,4 +1,4 @@
-# Social Media Messaging App Vulnerability: Organizational Email Domain Reuse Attack
+# ChatSecure
 
 ## Introduction
 Welcome to the next chapter of securing your application! Imagine you’ve developed a groundbreaking social media messaging app called **ChatSecure**. Users love it for its seamless communication and robust security, powered by **Google OAuth** for email-based authentication. The app gains rapid traction, with thousands of users sharing secrets, messages, and private information. The development team is thrilled—everything seems flawless.

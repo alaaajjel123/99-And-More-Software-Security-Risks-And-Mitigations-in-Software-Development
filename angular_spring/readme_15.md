@@ -6,7 +6,7 @@ Welcome to **Buy_From_Me**, an e-commerce platform where users can browse produc
 
 The app started as a small, innovative side project with a single feature and a single endpoint. It didn’t require much storage or compute resources, and the team deployed it using a traditional approach with minimal infrastructure. Initially, the app performed well, and users were happy. However, due to its innovative idea, the app gained unexpected popularity, leading to a surge in traffic. The team celebrated their success as the user base grew rapidly.
 
-## The Trauma: Strange Feedback and a Growing Nightmare
+## Strange Feedback and a Growing Nightmare
 
 ### Stage 1: App Performance Degradation
 Users started reporting strange behavior:

@@ -1,4 +1,4 @@
-# Welcome to Buy_From_Me
+# Buy_From_Me
 
 Buy_From_Me is an e-commerce platform that prides itself on innovation and user satisfaction. The app, built with Angular for the frontend and Spring Boot for the backend, recently introduced a real-time chat support system powered by WebSockets. This feature allows users to communicate instantly with customer service representatives, enhancing their shopping experience.
 
@@ -6,7 +6,7 @@ The development team worked tirelessly to ensure the feature was robust, scalabl
 
 ## But then...
 
-## The Trauma: Strange Chat Behavior and Unauthorized Access
+## a Trauma: Strange Chat Behavior and Unauthorized Access
 
 ### Stage 1: Odd Chat Messages
 Users began reporting strange behavior in the chat system:

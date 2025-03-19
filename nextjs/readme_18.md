@@ -5,7 +5,7 @@ Welcome to **Buy_From_Me**, an e-commerce platform built to make online shopping
 ## Everything Seems Perfect… Until It’s Not
 The system is secure, the APIs are performing well, and users are loving the experience. The development team celebrates their success as the user base grows rapidly. But then...
 
-## The Trauma: Strange Feedback and a Growing Nightmare
+## Strange Feedback and a Growing Nightmare
 ### Stage 1: Inexplicable Session Expirations
 Users begin to report strange issues:
 - Their sessions are unexpectedly expiring even though they’re still active.

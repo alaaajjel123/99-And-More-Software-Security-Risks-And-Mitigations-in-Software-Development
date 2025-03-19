@@ -13,7 +13,7 @@ But then...
 
 ---
 
-## The Trauma: Strange Feedback and a Growing Nightmare
+## Strange Feedback and a Growing Nightmare
 ### Stage 1: Influx of Fake Accounts
 Users start reporting odd behavior:
 - They receive email confirmations for accounts they never created.

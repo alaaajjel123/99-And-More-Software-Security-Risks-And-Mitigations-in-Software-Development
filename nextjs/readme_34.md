@@ -4,7 +4,7 @@ Welcome to **Buy_From_Me**, a modern e-commerce platform built on **Next.js**, w
 
 Users loved the app, and the team celebrated their success as the user base grew rapidly. But then...
 
-## The Trauma: Strange User Complaints and a Growing Mystery
+## Strange User Complaints and a Growing Mystery
 
 ### Stage 1: Odd Behavior in Product Listings
 

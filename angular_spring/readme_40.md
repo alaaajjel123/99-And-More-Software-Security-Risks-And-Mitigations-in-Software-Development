@@ -1,4 +1,4 @@
-# Buy_From_Me:
+# Buy_From_Me
 
 ## Scenario: The "Buy_From_Me" E-Commerce App
 Welcome back to **Buy_From_Me**, the e-commerce platform where users can browse products, add items to their cart, and make purchases seamlessly. The frontend is built with **Angular**, while the backend leverages the power of **Spring Boot**.
@@ -9,7 +9,7 @@ But then...
 
 ---
 
-## 🚨 The Trauma: Strange Server Behavior and a Growing Nightmare
+## 🚨 Strange Server Behavior and a Growing Nightmare
 ### Stage 1: Unusual Server Load
 The operations team notices something odd:
 - The server is experiencing unusually high **CPU and memory usage**, even during off-peak hours.

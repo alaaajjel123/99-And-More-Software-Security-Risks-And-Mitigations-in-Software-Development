@@ -6,7 +6,7 @@ After rigorous testing and optimization, the app was deployed to production, and
 
 ---
 
-## 🚨 The Trauma: Strange Complaints and a Growing Nightmare
+## 🚨 Strange Complaints and a Growing Nightmare
 
 ### Stage 1: Suspicious Account Activity
 

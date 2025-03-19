@@ -4,7 +4,7 @@ Welcome to **Buy_From_Me**, a robust e-commerce platform where users can browse 
 
 ---
 
-## 🚨 The Trauma: Strange Feedback and a Growing Nightmare
+## 🚨 Strange Feedback and a Growing Nightmare
 
 ### Stage 1: Odd Account Behavior
 Users start reporting strange behavior:

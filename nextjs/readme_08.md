@@ -7,7 +7,7 @@ However, a new issue arises...
 
 ---
 
-## The Incident: Website Becomes Unusable
+## Website Becomes Unusable
 ### Stage 1: A Sudden Surge in Traffic
 One day, the development team starts receiving complaints from customers:
 - "I keep getting errors when trying to log in!"

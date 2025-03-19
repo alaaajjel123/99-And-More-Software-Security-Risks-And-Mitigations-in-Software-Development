@@ -6,7 +6,7 @@ The app uses a **MySQL** database to store user accounts, product information, a
 
 ---
 
-## 🚨 The Trauma: Strange Feedback and a Growing Nightmare
+## 🚨 Strange Feedback and a Growing Nightmare
 
 ### Stage 1: Missing User Accounts
 Users started reporting strange behavior:

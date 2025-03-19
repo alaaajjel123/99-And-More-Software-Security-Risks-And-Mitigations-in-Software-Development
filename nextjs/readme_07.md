@@ -8,7 +8,7 @@ But then...
 
 ---
 
-## The Trauma: Unexpected Server Data Exposure
+## Unexpected Server Data Exposure
 
 ### Stage 1: Customer Complaints About Strange Order Details
 Users begin reporting issues related to their orders:
