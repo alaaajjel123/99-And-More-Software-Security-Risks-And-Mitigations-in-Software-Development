@@ -5,7 +5,7 @@ Buy_From_Me is an e-commerce platform where users can browse products, add items
 
 Everything seemed perfect. The system was secure, the APIs were performing well, and users were loving the experience. The development team celebrated their success as the user base grew rapidly. But then...
 
-## The Trauma: Unexpected Discounts and Unauthorized Changes
+## Unexpected Discounts and Unauthorized Changes
 ### Stage 1: Strange Discount Behavior
 Users started reporting strange behavior:
 - Some users claimed they received **unexpected discounts** on their orders, even though they had not applied any discount codes.

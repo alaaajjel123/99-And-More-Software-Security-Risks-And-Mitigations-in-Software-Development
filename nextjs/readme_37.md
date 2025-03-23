@@ -7,7 +7,7 @@ But then...
 
 ---
 
-## The Trauma: Strange Feedback and a Growing Nightmare
+## Strange Feedback and a Growing Nightmare
 ### Stage 1: Unexpected Pop-ups and Altered UI
 Users start reporting strange behavior:
 - Random pop-ups appear on certain product pages.

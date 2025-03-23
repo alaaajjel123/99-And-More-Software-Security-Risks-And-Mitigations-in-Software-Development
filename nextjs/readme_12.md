@@ -1,4 +1,5 @@
 # "Buy_From_Me"
+
 Welcome to **Buy_From_Me**, an e-commerce platform where users can browse products, add items to their cart, and make purchases seamlessly. The frontend is built with Next.js, while the backend leverages the power of Node.js and Express.
 
 Everything seems perfect. The system is secure, the APIs are performing well, and users are loving the experience. The development team celebrates their success as the user base grows rapidly.
@@ -7,7 +8,7 @@ But then...
 
 ---
 
-## The Trauma: Mysterious Traffic Surge and Data Theft
+## Mysterious Traffic Surge and Data Theft
 ### Stage 1: Unusual Traffic Spikes
 The team starts noticing sudden and unusual spikes in website traffic. 
 - Thousands of product detail pages are being requested within seconds.

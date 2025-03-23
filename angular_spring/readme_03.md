@@ -1,7 +1,7 @@
-# README: Addressing the CORS Vulnerability in the "Buy_From_Me" App
+# "Buy_From_Me"
 
 ## Overview
-"Buy_From_Me" is an e-commerce platform that allows users to log in, manage a shopping cart, and place orders. Recently, users reported unusual behaviors in their accounts:
+"Buy_From_Me" is an e-commerce platform with Angular & Springboot that allows users to log in, manage a shopping cart, and place orders. Recently, users reported unusual behaviors in their accounts:
 
 - **Items are being added to their carts without consent.**
 - **Orders are being placed on their behalf for random products.**

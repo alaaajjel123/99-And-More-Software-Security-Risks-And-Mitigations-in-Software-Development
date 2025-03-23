@@ -1,11 +1,11 @@
-## Introduction
+## Buy_From_Me
 Welcome to **Buy_From_Me**, an e-commerce platform where users can browse products, add items to their cart, and make purchases seamlessly. The frontend is built with **Angular**, while the backend leverages the power of **Spring Boot**. Additionally, the app has a mobile version developed using **Flutter**, ensuring a smooth experience across devices.
 
 To enhance the app's user interface, the team decided to integrate a **third-party JavaScript library** that offered stylish and modern components. After thorough testing and integration, the updated app was deployed to production. Everything seemed perfect—the new components looked great, the app was performing well, and users were loving the improved experience. The development team celebrated their success as the user base grew rapidly.
 
 But then...
 
-## The Trauma: Strange Feedback and a Growing Nightmare
+## Strange Feedback and a Growing Nightmare
 
 ### Stage 1: Sluggish Performance
 Users started reporting strange behavior:

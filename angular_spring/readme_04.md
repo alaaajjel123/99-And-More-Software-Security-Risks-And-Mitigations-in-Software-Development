@@ -1,4 +1,4 @@
-# 🛡️ README: Addressing DDoS Attacks on the Frontend of an Angular-Based Application
+# "Buy_From_Me"
 
 ## 📖 Overview
 The application **"Buy_From_Me"** is built with an Angular frontend, providing seamless interaction for users browsing and purchasing items. Recently, the app faced intermittent outages, where users reported it being inaccessible during peak usage times. These issues seemed random but were eventually traced back to Distributed Denial of Service (DDoS) attacks targeting the frontend layer.

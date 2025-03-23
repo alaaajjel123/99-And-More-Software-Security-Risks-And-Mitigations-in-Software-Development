@@ -8,7 +8,7 @@ Everything seemed perfect. The system was secure, the APIs were performing well,
 
 ---
 
-## The Trauma: Strange Feedback and a Growing Nightmare
+## Strange Feedback and a Growing Nightmare
 
 ### Stage 1: Suspicious Claims of Identity Theft
 Users started reporting strange behavior:

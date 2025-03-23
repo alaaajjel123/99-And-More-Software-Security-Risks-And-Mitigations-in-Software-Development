@@ -6,7 +6,7 @@ One of the app’s standout features is its **role-based access control system**
 
 Everything seemed perfect. The system was secure, the APIs were performing well, and users were loving the experience. The development team celebrated their success as the user base grew rapidly. But then...
 
-## The Trauma: Unauthorized Access and Data Exposure
+## Unauthorized Access and Data Exposure
 
 ### Stage 1: Strange Access to Restricted Pages
 Users started reporting strange behavior:

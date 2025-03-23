@@ -6,7 +6,7 @@ The development team worked tirelessly to ensure the feature was **robust, scala
 
 But then...
 
-## 🚨 The Trauma: Phishing Emails and Suspicious Subdomains
+## 🚨 Phishing Emails and Suspicious Subdomains
 
 ### Stage 1: Strange Emails
 Users began reporting strange emails claiming to be from **Buy_From_Me**. These emails directed users to subdomains like `support.buyfromme.com`, where they were prompted to enter their login credentials.

@@ -8,7 +8,7 @@ But then...
 
 ---
 
-## The Trauma: Strange User Complaints and Unexpected Behaviors
+## Strange User Complaints and Unexpected Behaviors
 
 ### Stage 1: Broken Product Listings and Odd Comments
 The customer support team starts receiving complaints:

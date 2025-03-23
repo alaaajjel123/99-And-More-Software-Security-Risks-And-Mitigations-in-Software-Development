@@ -8,7 +8,7 @@ The development team worked tirelessly to ensure the app was secure and function
 
 But then...
 
-## The Trauma: A Malware Attack
+## A Malware Attack
 
 ### Stage 1: Strange User Complaints
 

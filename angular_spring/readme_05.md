@@ -1,11 +1,11 @@
-# Securing Against DoS Attacks Despite CORS Protection
+# "Buy_From_Me"
 
 ## 🚨 Disclaimer
 **Important**: Any attempt to exploit systems or launch DoS/DDoS attacks is strictly illegal and punishable by law. This document is intended solely for educational purposes to help developers secure their applications.
 
 ---
 
-## 📚 Scenario: The "Buy_From_Me" App Overwhelmed by a DoS Attack
+## 📚 Scenario: The "Buy_From_Me" App
 
 The "Buy_From_Me" app is a full-stack application built using:
 - **Frontend**: Angular

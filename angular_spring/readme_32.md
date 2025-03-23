@@ -1,4 +1,4 @@
-# Welcome to Buy_From_Me
+# Buy_From_Me
 
 An e-commerce platform where users can browse products, add items to their cart, and make purchases seamlessly. The frontend is built with Angular, while the backend leverages the power of Spring Boot. One of the app’s standout features is its advanced search functionality, which uses GraphQL to allow users to query products with complex filters like price range, category, and ratings. This feature was designed to provide a powerful and flexible search experience for users.
 

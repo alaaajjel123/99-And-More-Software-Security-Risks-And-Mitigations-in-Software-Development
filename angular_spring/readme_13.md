@@ -1,4 +1,4 @@
-# Welcome to Buy_From_Me
+# Buy_From_Me
 
 Buy_From_Me is an e-commerce platform where users can browse products, add items to their cart, and make purchases seamlessly. The frontend is built with Angular, while the backend leverages the power of Spring Boot. Additionally, the app has a mobile version developed using Flutter, ensuring a smooth experience across devices.
 
@@ -6,7 +6,7 @@ The app allows users to browse products, make purchases, and manage their accoun
 
 ## But then...
 
-## The Trauma: Strange Feedback and a Growing Nightmare
+## Strange Feedback and a Growing Nightmare
 
 ### Stage 1: Suspicious Account Activity
 Users start reporting strange behavior:

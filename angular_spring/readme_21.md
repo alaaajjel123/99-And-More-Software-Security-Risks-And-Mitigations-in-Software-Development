@@ -1,4 +1,4 @@
-# Buy_From_Me - Security Incident Report
+# Buy_From_Me
 
 ## Welcome to Buy_From_Me
 An e-commerce platform where users can browse products, add items to their cart, and make purchases seamlessly. The frontend is built with Angular, while the backend leverages the power of Spring Boot. One of the app’s standout features is its advanced search functionality, which allows users to search for products using complex filters like price range, category, and ratings. This feature was designed to provide a seamless and powerful search experience for users.
@@ -7,7 +7,7 @@ Everything seemed perfect. The system was secure, the APIs were performing well,
 
 ---
 
-## The Trauma: Strange Search Results and Growing Confusion
+## Strange Search Results and Growing Confusion
 
 ### Stage 1: Odd Search Behavior
 Users started reporting strange behavior:

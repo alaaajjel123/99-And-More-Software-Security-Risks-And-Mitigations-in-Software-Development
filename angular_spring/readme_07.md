@@ -1,11 +1,12 @@
-## Welcome to Buy_From_Me
+## Buy_From_Me
+
 An e-commerce platform where users can browse products, add items to their cart, and make purchases seamlessly. The frontend is built with **Angular**, while the backend leverages the power of **Spring Boot**. Additionally, the app has a mobile version developed using **Flutter**, ensuring a smooth experience across devices.
 
 To ensure the app remains secure and performant, the team implemented **rate limiting by IP address and user** to prevent **Denial-of-Service (DoS) attacks**. This worked well initially, and the app remained stable. The development team celebrated their success as the user base grew rapidly.
 
 But then...
 
-## The Trauma: Strange Feedback and a Growing Nightmare
+## Strange Feedback and a Growing Nightmare
 
 ### Stage 1: Intermittent App Unavailability
 Users start reporting strange behavior:

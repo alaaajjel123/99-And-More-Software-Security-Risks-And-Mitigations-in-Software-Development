@@ -13,7 +13,7 @@ Everything seems perfect. The system is secure, the APIs perform well, and users
 
 ---
 
-## The Trauma: Strange Feedback and a Growing Nightmare
+## Strange Feedback and a Growing Nightmare
 
 ### Stage 1: Strange Activity in User Accounts
 Users start reporting strange behavior:

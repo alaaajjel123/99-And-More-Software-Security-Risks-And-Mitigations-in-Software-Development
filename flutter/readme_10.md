@@ -6,7 +6,7 @@ Everything seemed perfect. The system was secure, the APIs were performing well,
 
 ---
 
-## The Trauma: Strange User Complaints and a Growing Nightmare
+## Strange User Complaints and a Growing Nightmare
 
 ### Stage 1: Strange Pop-Ups and Unauthorized Access
 

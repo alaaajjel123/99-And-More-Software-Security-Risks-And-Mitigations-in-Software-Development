@@ -4,7 +4,7 @@ Welcome to **Buy_From_Me**, a mobile e-commerce application built with Flutter, 
 
 But then...
 
-## The Trauma: Strange User Complaints and a Growing Nightmare
+## Strange User Complaints and a Growing Nightmare
 
 ### Stage 1: Suspicious Activity
 Users started reporting strange issues:

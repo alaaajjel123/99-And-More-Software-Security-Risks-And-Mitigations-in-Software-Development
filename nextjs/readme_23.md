@@ -2,7 +2,7 @@
 
 Welcome to **Buy_From_Me**, an interactive e-commerce platform where users can browse products, add items to their cart, and complete transactions in real-time. The frontend is built with **Next.js** for Server-Side Rendering (SSR), ensuring fast page loads and SEO optimization, while the backend leverages the power of **Spring Boot** to handle business logic and authentication.
 
-## The Nightmare: Strange Feedback and a Growing Issue
+## Strange Feedback and a Growing Issue
 
 ### Stage 1: Odd Transaction Behavior
 Users start reporting strange behavior:

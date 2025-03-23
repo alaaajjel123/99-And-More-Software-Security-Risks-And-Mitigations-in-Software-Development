@@ -6,7 +6,7 @@ In the app, users can register, log in, and make secure purchases using payment 
 
 ---
 
-## The Trauma: A Breach in Security
+## A Breach in Security
 
 ### Stage 1: A Breach in the Payment Process
 A few weeks after launch, a fraudulent transaction was detected in the system. An unauthorized user managed to make a purchase using a stored credit card without any additional authentication.

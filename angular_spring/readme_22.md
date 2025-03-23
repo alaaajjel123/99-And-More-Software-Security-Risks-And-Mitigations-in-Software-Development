@@ -1,4 +1,4 @@
-# Buy_From_Me Security Incident Report
+# Buy_From_Me
 
 ## Welcome to Buy_From_Me
 
@@ -8,7 +8,7 @@ Everything seemed perfect. The system was secure, the APIs were performing well,
 
 ---
 
-## The Trauma: Unauthorized Access and Strange Account Behavior
+## Unauthorized Access and Strange Account Behavior
 
 ### Stage 1: Odd Account Activity
 Users started reporting strange behavior:

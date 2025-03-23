@@ -12,7 +12,7 @@ Everything seemed perfect. The system was secure, the APIs performed well, and u
 
 ---
 
-## The Trauma: Strange User Complaints and a Growing Nightmare
+## Strange User Complaints and a Growing Nightmare
 
 ### Stage 1: Odd Account Behavior
 

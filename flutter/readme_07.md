@@ -6,7 +6,7 @@ The development team worked tirelessly to ensure the app was secure and function
 
 But then...
 
-## The Trauma: A Data Breach
+## A Data Breach
 
 ### Stage 1: Unusual User Complaints
 A few weeks after launch, users started reporting strange issues:

@@ -6,7 +6,7 @@ The development team worked tirelessly to ensure the app was secure and function
 
 ## But then...
 
-# The Trauma: Unauthorized Data Access
+# Unauthorized Data Access
 
 ## Stage 1: Strange User Complaints
 
